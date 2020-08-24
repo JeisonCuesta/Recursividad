@@ -1,0 +1,13 @@
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.csprojAssemblyReference.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.AssemblyInfoInputs.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.AssemblyInfo.cs
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.csproj.CoreCompileInputs.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.exe
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.deps.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.runtimeconfig.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.runtimeconfig.dev.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.dll
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\bin\Debug\netcoreapp3.1\TorresC.pdb
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.dll
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.pdb
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Recursividad\Torres\TorresC\obj\Debug\netcoreapp3.1\TorresC.genruntimeconfig.cache
